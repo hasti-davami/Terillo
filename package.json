@@ -19,6 +19,7 @@
     "concat": "^1.0.3",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.1.1",
+    "postcss": "^8.3.6",
     "postcss-cli": "^4.1.1"
   },
   "repository": {
@@ -28,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/hasti-davami/Terillo/issues"
   },
-  "homepage": "https://github.com/hasti-davami/Terillo#readme"
+  "homepage": "https://github.com/hasti-davami/Terillo#readme",
+  "dependencies": {
+    "npm-install-all": "^1.1.21"
+  }
 }
